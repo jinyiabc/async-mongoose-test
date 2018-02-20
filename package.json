@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-async-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-async-each.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "mongoose": "^5.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
